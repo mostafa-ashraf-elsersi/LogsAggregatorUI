@@ -1,0 +1,22 @@
+.external-container {
+    width: 100% !important;
+}
+
+.internal-container {
+    width: 90% !important;
+    margin: 0 auto;
+}
+
+.styled-headline {
+    text-align: center;
+    margin: 30px 0;
+}
+
+.table-container {
+    overflow-x: auto;
+}
+
+.mat-mdc-form-field {
+    font-size: 14px;
+    width: 100%;
+}
